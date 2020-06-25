@@ -235,4 +235,7 @@
     <string name="custom_timeout_summary_8hours">8 hours</string>
 
     <string name="navigation_gesture_summary">Change gesture navigation mode</string>
+
+    <!-- Lockscreen timeout -->
+    <string name="lockscreen_timeout_title">Lockscreen timeout</string>
 </resources>
