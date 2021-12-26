@@ -815,4 +815,7 @@
     <!-- Array of carrier id that uses reusable activation code-->
     <integer-array name="config_carrier_use_rac" translatable="false">
     </integer-array>
+
+    <!-- Whether to show min/max refresh rate in display settings -->
+    <bool name="config_show_refresh_rate_controls">false</bool>
 </resources>

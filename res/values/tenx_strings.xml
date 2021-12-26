@@ -238,4 +238,7 @@
 
     <!-- Lockscreen timeout -->
     <string name="lockscreen_timeout_title">Lockscreen timeout</string>
+
+    <!-- Refresh rate -->
+    <string name="low_power_refresh_rate_title_custom">Low power refresh rate</string>
 </resources>
