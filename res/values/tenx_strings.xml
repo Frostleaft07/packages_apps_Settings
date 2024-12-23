@@ -43,8 +43,8 @@
 
     <!-- TenX-OS maintainer -->
     <string name="maintainer">Maintainer</string>
-    <string name="maintainer_name">Your local GitHub Retard</string>
-    <string name="maintainer_telegram_username">https://t.me/advaithbhat</string>
+    <string name="maintainer_name">Frostleaft07</string>
+    <string name="maintainer_telegram_username">https://t.me/Schrwarch</string>
 
     <!-- Lock screen pattern size -->
     <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
